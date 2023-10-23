@@ -1,0 +1,3 @@
+/home/oreste/CLionProjects/red_detector/cmake-build-debug/CMakeFiles/red_detector.dir
+/home/oreste/CLionProjects/red_detector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/CLionProjects/red_detector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
